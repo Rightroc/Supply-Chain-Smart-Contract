@@ -35,7 +35,7 @@ In this project, I have taken a practical approach. The codes are designed to si
 
 ### To Do
 
-- Front end development(in process)
+- Front-end development(in process)
 
 ### Versions
 
